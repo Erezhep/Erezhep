@@ -39,12 +39,13 @@
 ---
 
 ## 📌 Ключевые проекты
-- [FLL Schedule Creator](https://github.com/Erezhep/FLL-Create-Schedule) — генератор расписаний соревнований (Flask, Pandas)
-- [Управление ДДС](https://github.com/Erezhep/dds-tracker) — Django-приложение для учёта доходов и расходов
-- [SecureChat](https://github.com/Erezhep/securechat) — безопасный чат с WebSocket и Spring Boot
-- [To-Do List with Auth](https://github.com/Erezhep/todo-list-with-auth) — приложение с авторизацией на Spring Boot
-- [Мини-Блог](https://github.com/Erezhep/flask-web-blog) — Flask-платформа с CRUD и аутентификацией
-- [React FLL Timer](https://github.com/Erezhep/react-fll-timer) — таймер для соревнований FLL на React
+
+- [**FLL Schedule Creator**]((https://github.com/Erezhep/python-backend-schedule-creator)) — генератор расписаний соревнований FLL, backend на **Flask**, обработка данных с **Pandas**  
+- [**Мини-Блог на Flask**](https://github.com/Erezhep/python-backend-flask-blog) — Flask-платформа с CRUD и аутентификацией, backend на **Python**  
+- [**Flask Mini Chat**](https://github.com/Erezhep/python-backend-mini-chat) — мини-чат на Flask, backend на **Python**  
+- [**SecureChat**](https://github.com/Erezhep/java-backend-secure-chat) — безопасный чат с **WebSocket**, backend на **Spring Boot** (Java, дополнительный опыт)  
+- [**To-Do List с авторизацией**](https://github.com/Erezhep/java-backend-todo-auth) — приложение с авторизацией на **Spring Boot** (Java, дополнительный опыт)  
+- [**React FLL Timer**](https://github.com/Erezhep/react-fll-timer) — таймер для соревнований FLL, frontend на **React**
 
 ---
 
